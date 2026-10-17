@@ -1,1 +1,1 @@
-Version inicial del proyecto
+Cambio realizado desde rama-a.
